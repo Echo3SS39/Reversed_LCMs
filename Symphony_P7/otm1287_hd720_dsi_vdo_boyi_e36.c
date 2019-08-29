@@ -3,7 +3,7 @@
 * Author : Rubén Espínola (ruben1863@github.com)
 * Contact : rubenes2003@gmail.com
 * Supported device: SYMPHONY P7
-* Reversed for Al Helal Isram
+* Reversed for Al Helal Islam
 * Copyright 2019 © Rubén Espínola
 *---------------------------------------------------------------*/
 
